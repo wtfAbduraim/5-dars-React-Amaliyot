@@ -1,0 +1,31 @@
+.button {
+  padding: 12px 20px;
+  border: none;
+  background-color: dimgray;
+  border-radius: 2px;
+  color: #fff;
+
+  &.red {
+    background-color: red;
+    color: black;
+    border-radius: 8px;
+  }
+
+  &.blue {
+    background-color: blue;
+    color: red;
+    border-radius: 6px;
+  }
+
+  &.else {
+    background-color: purple;
+    color: red;
+    border-radius: 6px;
+  }
+
+  &.else {
+    background-color: purple;
+    color: red;
+    border-radius: 6px;
+  }
+}
